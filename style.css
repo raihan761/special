@@ -10,7 +10,6 @@ body {
 }
 
 header {
-    background: #d4d3ce;
     font-style: oblique;
     color: white;
     padding: 18px;
@@ -94,7 +93,6 @@ img:hover {
 }
 
 footer {
-    background-color: #d4d3ce;;
     color: rgb(255, 255, 255);
     padding: 10px;
     margin-top: 20px;
